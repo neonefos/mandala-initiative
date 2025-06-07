@@ -1,15 +1,18 @@
-# Mandala Initiative
+﻿# Mandala Initiative
 
-Selamat datang di dokumentasi terbuka **Mandala Initiative**.  
-Sebuah infrastruktur digital rakyat: ruang komunikasi, pertukaran data, dan dokumentasi pengetahuan lokal yang merdeka, aman, dan kolaboratif.
-
----
-
-## 📂 Dokumentasi Awal
-
-- [Manifesto dan Gagasan Awal](00_manifesto.md)
+**Mandala Initiative** adalah infrastruktur digital rakyat yang merdeka, aman, dan kolaboratif.
 
 ---
 
-Mandala Initiative adalah ajakan terbuka. Siapa pun dapat berkontribusi.
-Lihat [repositori GitHub](https://github.com/neonefos/mandala-initiative) untuk bergabung.
+## 📂 Dokumentasi Modular
+
+- [00 – Manifesto](00_manifesto.md)
+- [01 – Mandala Protocol](01_protokol.md)
+- [02 – Struktur Folder Mandala](02_struktur_folder.md)
+- [03 – Simulasi Simpul Mandala](03_simulasi_simpul.md)
+- [04 – Federasi dan Pengembangan Lanjut](04_federasi.md)
+
+---
+
+Repositori ini terbuka untuk kontribusi.  
+Lihat [GitHub Repository](https://github.com/neonefos/mandala-initiative) untuk bergabung.
