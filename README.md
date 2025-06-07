@@ -8,6 +8,6 @@ Dokumentasi dan protokol awal dapat ditemukan di folder `docs/`.
 
 ---
 
-**Website**: [https://neonefos.org](https://neonefos.org)  
+**Website**: [https://neonefos.com](https://neonefos.com)  
 **Repositori ini** terbuka untuk kontribusi dari siapa saja.
 
